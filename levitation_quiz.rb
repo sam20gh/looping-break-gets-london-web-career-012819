@@ -5,7 +5,7 @@ def levitation_quiz
 	  answer = gets.chomp
 	  break
 	  answer == "Wingardium Leviosa"
-	  puts ""
+	  puts "You passed the quiz!"
 end
 
 
